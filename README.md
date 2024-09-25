@@ -13,7 +13,7 @@ ACCESS_TOKEN_SECRET=
 REFRESH_TOKEN_SECRET=
 ```
 
-Both of them should be at 512 bits of size in the best case!
+Both of them should be around 512 bits of size in the best case!
 
 Now you can run the app using:
 
